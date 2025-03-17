@@ -1,6 +1,8 @@
 # Recast
 A NovelAi tool that helps you improve the quality of your generated text. Fanmade. 
 
+Download: https://github.com/Sarrusha/Recast/releases/tag/Recast
+
 # Status: Alpha Preview
 
 ### Require an active NovelAI subscription, https://novelai.net. Kayra is available for all tiers, Erato only for Opus. Quality of Erato is immeasurably superior, as is its ability to execute orders and commands. It is highly recommended to have Opus as a subscription.
