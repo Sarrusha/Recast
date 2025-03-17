@@ -1,0 +1,50 @@
+{
+    "Summarize": {
+        "field1": "*** Original text: ",
+        "field2": "Summarized text: "
+    },
+    "Corrector": {
+        "field1": "*** Wrong version: ",
+        "field2": "Corrected version: "
+    },
+    "Rephrase": {
+        "field1": "*** Original text: ",
+        "field2": "Rephrased text: "
+    },
+    "Expand": {
+        "field1": "*** Short version: ",
+        "field2": "Extended version: "
+    },
+    "Brainstorm": {
+        "field1": "*** Starting point: ",
+        "field2": "Ideas: "
+    },
+    "Plot twist": {
+        "field1": "*** Situation: ",
+        "field2": "Possible Plot twists: "
+    },
+    "Translate": {
+        "field1": "*** Original text: ",
+        "field2": "Translated text: "
+    },
+    "Impressionism": {
+        "field1": "*** Plain passage: ",
+        "field2": "Expressive text: "
+    },
+    "Fluent": {
+        "field1": "*** Original text: ",
+        "field2": "Articulate version: "
+    },
+    "Simplify": {
+        "field1": "*** Original text: ",
+        "field2": "Simpler: "
+    },
+    "Formal": {
+        "field1": "*** Original text: ",
+        "field2": "Formal text: "
+    },
+    "Custom": {
+        "field1": "*** Original text: ",
+        "field2": "Rephrased text: "
+    }
+}

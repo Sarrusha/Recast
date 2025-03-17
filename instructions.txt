@@ -1,0 +1,7 @@
+1.  Select Model, Preset & Prompt.
+2.  Modify the prompt in the 'Prompt' box. (Optional)
+3.  Enter your imperfect text in the 'Input Text' box.
+4.  Click 'Generate', enjoy.
+5.  Click 'More' to continue the output. It will continue.
+6.  'Copy' the output to the clipboard.
+7.  Select "Custom" to create & save your personal prompt. You can also change  and add prompts outside the program opening "prompts.jso" & "prompt_fields.json" in your installation folder. Every prompt MUST share its name with its respective prompt_fiels. i.e. "Corrector".

@@ -1,0 +1,2 @@
+aiohttp
+novelai_api
