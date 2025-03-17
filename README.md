@@ -39,7 +39,7 @@ Follow the steps carefully in the order presented, and you should be fine. If yo
     - This will download and install everything automatically. You'll see a lot of text scrolling by. Don't worry about it unless you see an error message.
 
 4.**Credentials:** Recast uses the same credentials that you use to log in in the NovelAI website. In the Recast folder, you can see a file called credentials.json. Open it with notepad, openoffice, word or any text processor and insert your username or email (like name@gmail.com) and password for the site inside the quotation marks. 
-    Save. *Note:* Do NOT insert your credentials if you use a machine that anyone can access outside of you, because they can just open the file and read them. Trust it like a plain, regular .txt file with your password inside. This is just temporary and & will be addressed briefly in the next patch.
+    Save. *Note:* Do NOT insert your credentials if you use a machine that anyone can access outside of you, because they can just open the file and read them. Trust it like a plain, regular .txt file with your password inside. This is just temporary and & will be addressed briefly in the next patch. I am not responsible if someone breaks into your room, turns on your computer, finds the right file and copies your login credentials. Use at your own risk.
 
 5.**Run the Program:** Now, you should be able to run Recast. Type this command and press Enter, or JUST DOUBLE CLIK ON THE "Recast.py" file in the folder.
 
@@ -50,6 +50,7 @@ Follow the steps carefully in the order presented, and you should be fine. If yo
 
 **Troubleshooting:**
 - **"pip" is not recognized:** If you get an error message saying "pip" is not recognized, it means Python wasn't added to your PATH correctly during installation. You might need to reinstall Python and make sure to check the "Add Python to PATH" box.
+- **Error: Login failed: https://api.novelai.net/user/login (401) - Incorrect access key.** Insert your credentials in credentials.json.
 - **Other Errors:** If you see any other error messages, please upload a screenshot, and I'll do my best to help you figure it out.
 
 TODO:
