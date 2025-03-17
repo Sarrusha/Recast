@@ -36,7 +36,10 @@ Follow the steps carefully in the order presented, and you should be fine. If yo
 
     - This will download and install everything automatically. You'll see a lot of text scrolling by. Don't worry about it unless you see an error message.
 
-4. **Run the Program:** Once the installation is finished, you should be able to run Recast. Type this command and press Enter, or JUST DOUBLE CLIK ON THE "Recast.py" file in the folder.
+4.**Credentials:** Recast uses the same credentials that you use to log in in the NovelAI website. In the Recast folder, you can see a file called credentials.json. Open it with notepad, openoffice, word or any text processor and insert your username or email (like name@gmail.com) and password for the site inside the quotation marks. 
+    Save. *Note:* Do not insert your credentials if you use a machine that anyone can access outside of you, because they can just open the file and read them. This will be addressed in the next patch.
+
+5.**Run the Program:** Now, you should be able to run Recast. Type this command and press Enter, or JUST DOUBLE CLIK ON THE "Recast.py" file in the folder.
 
     ```
     python Recast.py
@@ -46,6 +49,9 @@ Follow the steps carefully in the order presented, and you should be fine. If yo
 **Troubleshooting:**
 - **"pip" is not recognized:** If you get an error message saying "pip" is not recognized, it means Python wasn't added to your PATH correctly during installation. You might need to reinstall Python and make sure to check the "Add Python to PATH" box.
 - **Other Errors:** If you see any other error messages, please upload a screenshot, and I'll do my best to help you figure it out.
+
+TODO:
+- Salt the credentials.
 
 Note: This is NOT an official program made by Anlatan. It is a labor of love from a fan of their work. 
 
