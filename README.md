@@ -1,5 +1,7 @@
 # Recast
-A NovelAi tool that helps you improve the quality of your generated text. Fanmade.
+A NovelAi tool that helps you improve the quality of your generated text. Fanmade. 
+
+### Require an active NovelAI subscription, https://novelai.net. Kayra is available for all tiers, Erato only for Opus. Quality of Erato is immeasurably superior, as is its ability to execute orders and commands. It is highly recommended to have Opus as a subscription.
 
 # HOW TO INSTALL RECAST
 Follow the steps carefully in the order presented, and you should be fine. If you get stuck, please don't hesitate to ask me for help! 
@@ -44,3 +46,5 @@ Follow the steps carefully in the order presented, and you should be fine. If yo
 **Troubleshooting:**
 - **"pip" is not recognized:** If you get an error message saying "pip" is not recognized, it means Python wasn't added to your PATH correctly during installation. You might need to reinstall Python and make sure to check the "Add Python to PATH" box.
 - **Other Errors:** If you see any other error messages, please upload a screenshot, and I'll do my best to help you figure it out.
+
+Note: This is NOT an official program made by Anlatan. It is a lobor of love from a fan of their work. 
