@@ -47,4 +47,9 @@ Follow the steps carefully in the order presented, and you should be fine. If yo
 - **"pip" is not recognized:** If you get an error message saying "pip" is not recognized, it means Python wasn't added to your PATH correctly during installation. You might need to reinstall Python and make sure to check the "Add Python to PATH" box.
 - **Other Errors:** If you see any other error messages, please upload a screenshot, and I'll do my best to help you figure it out.
 
-Note: This is NOT an official program made by Anlatan. It is a lobor of love from a fan of their work. 
+Note: This is NOT an official program made by Anlatan. It is a labor of love from a fan of their work. 
+
+### Credits:
+Aedial repository, without which this work would not exist:
+https://github.com/Aedial/novelai-api
+
