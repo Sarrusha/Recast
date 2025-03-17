@@ -1,2 +1,2 @@
 # Recast
-NovelAi extension tool for rephrasing text. Fanmade.
+A NovelAi tool that helps you improve the quality of your generated text. Fanmade.
