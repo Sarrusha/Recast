@@ -1,6 +1,8 @@
 # Recast
 A NovelAi tool that helps you improve the quality of your generated text. Fanmade. 
 
+# Status: Alpha Preview
+
 ### Require an active NovelAI subscription, https://novelai.net. Kayra is available for all tiers, Erato only for Opus. Quality of Erato is immeasurably superior, as is its ability to execute orders and commands. It is highly recommended to have Opus as a subscription.
 
 # HOW TO INSTALL RECAST
@@ -37,7 +39,7 @@ Follow the steps carefully in the order presented, and you should be fine. If yo
     - This will download and install everything automatically. You'll see a lot of text scrolling by. Don't worry about it unless you see an error message.
 
 4.**Credentials:** Recast uses the same credentials that you use to log in in the NovelAI website. In the Recast folder, you can see a file called credentials.json. Open it with notepad, openoffice, word or any text processor and insert your username or email (like name@gmail.com) and password for the site inside the quotation marks. 
-    Save. *Note:* Do not insert your credentials if you use a machine that anyone can access outside of you, because they can just open the file and read them. This will be addressed in the next patch.
+    Save. *Note:* Do NOT insert your credentials if you use a machine that anyone can access outside of you, because they can just open the file and read them. Trust it like a plain, regular .txt file with your password inside. This is just temporary and & will be addressed briefly in the next patch.
 
 5.**Run the Program:** Now, you should be able to run Recast. Type this command and press Enter, or JUST DOUBLE CLIK ON THE "Recast.py" file in the folder.
 
@@ -51,7 +53,8 @@ Follow the steps carefully in the order presented, and you should be fine. If yo
 - **Other Errors:** If you see any other error messages, please upload a screenshot, and I'll do my best to help you figure it out.
 
 TODO:
-- Salt the credentials.
+- Salt & crypt the credentials.
+- Make a simple .exe for not tech people.
 
 Note: This is NOT an official program made by Anlatan. It is a labor of love from a fan of their work. 
 
