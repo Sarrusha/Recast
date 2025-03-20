@@ -18,7 +18,7 @@ Download: https://github.com/Sarrusha/Recast/releases/tag/Recast
 Follow the steps carefully in the order presented, and you should be fine. If you get stuck, please don't hesitate to ask me for help! 
 
 **What you'll need:**
-- **Python:** Recast needs Python to run. (At least for now) If you don't have it already, you'll need to install it. You can download it from here: [https://www.python.org/downloads/](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.python.org%2Fdownloads%2F)
+- **Python:** Recast needs Python to run. (At least for now, recommanded Python 3.12 ) If you don't have it already, you'll need to install it. You can download it from here: [https://www.python.org/downloads/](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.python.org%2Fdownloads%2F)
     
     - **Important:** When you download Python, make sure to check the box that says "Add Python to PATH" during the installation. This is very important!
        
