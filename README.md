@@ -3,6 +3,13 @@ A NovelAi tool that helps you improve the quality of your generated text. Fanmad
 
 Download: https://github.com/Sarrusha/Recast/releases/tag/Recast
 
+![Brainstorm](https://github.com/user-attachments/assets/9441f08a-b01b-4da5-b060-1324a38209ee)
+*An example showing the Brainstorm prompt*
+
+![Create Custom Prompt](https://github.com/user-attachments/assets/cc281e29-3ef4-49e5-a468-7de5ce898bf3)
+*Create and use your personal, custom prompts!*
+  
+
 # Status: Alpha Preview
 
 ### Require an active NovelAI subscription, https://novelai.net. Kayra is available for all tiers, Erato only for Opus. Quality of Erato is immeasurably superior, as is its ability to execute orders and commands. It is highly recommended to have Opus as a subscription.
